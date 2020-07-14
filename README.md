@@ -1,6 +1,8 @@
 # TakeoffSaff-Task-VueJS
 ### Deployed app
 See [here](https://takeoffsafftask-vue.onrender.com/).
+Login: dummy
+Password: 123456
 
 ## Project setup
 ```
