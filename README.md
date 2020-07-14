@@ -1,4 +1,6 @@
-# vuetify
+# TakeoffSaff-Task-VueJS
+### Deployment
+See [here](https://takeoffsafftask-vue.onrender.com/).
 
 ## Project setup
 ```
@@ -20,5 +22,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
