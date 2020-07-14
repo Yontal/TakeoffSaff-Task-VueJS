@@ -2,8 +2,7 @@
 ## Deployed app
 See [here](https://takeoffsafftask-vue.onrender.com/).
 ### Demo credentials
-Login: dummy
-Password: 123456
+Login: dummy ; Password: 123456
 
 ## Project setup
 ```
