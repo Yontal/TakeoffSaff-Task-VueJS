@@ -1,5 +1,5 @@
 # TakeoffSaff-Task-VueJS
-### Deployment
+### Deployed app
 See [here](https://takeoffsafftask-vue.onrender.com/).
 
 ## Project setup
